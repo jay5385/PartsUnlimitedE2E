@@ -13,6 +13,7 @@
 4. Enter the URL (insert URL to the Microsoft GitHub for Parts Unlimited here)
 5. If desired, change the local repository path
 6. Click the Clone button
+7. Vijay
 
 ## Begin working with the Parts Unlimited solution ##
 1. On the Home page of the Team Explorer window, open the solution by double-clicking PartsUnlimited.sln listed under the Solutions section.  If you do not see it listed under the Solutions section, click the Open... link and navigate the local repository folder to open PartsUnlimited.sln.
